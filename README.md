@@ -11,6 +11,14 @@ Unofficial Linux configuration utility for the Fantech Crypto II WG7V2 wireless 
 - Wireless status
 - Linux support
 
+## Technology
+
+Built with:
+
+- Rust 🦀
+- HID/USB communication libraries
+- Linux APIs
+
 ## Status
 
 🚧 Early development
